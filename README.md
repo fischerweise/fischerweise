@@ -17,9 +17,9 @@
 
 ## ⏲ What am I doing these days:
 
-I'm studying at Turkcell right now, learning Swift. 📃.
+:writing_hand:	I'm studying at Turkcell right now, learning Swift. 📃.
 
-Even here is my first project: 
+👇 Even here is my first project: 
 
 <img align="middle" alt="GIF" src="https://user-images.githubusercontent.com/96817224/151414552-8282f83c-e1b0-4448-bb8a-a3f09d40cc0f.gif" />
 
