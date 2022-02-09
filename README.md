@@ -46,6 +46,21 @@
 
 ![Autocad-Logo](https://user-images.githubusercontent.com/96817224/151434341-286e23b0-dbcc-427a-8102-67d86d549295.png)
 
+## Completed Projects so far
+
+### HitTheBottle
+
+![HitTheBottle](https://user-images.githubusercontent.com/96817224/151414552-8282f83c-e1b0-4448-bb8a-a3f09d40cc0f.gif)
+
+### Countries
+
+https://user-images.githubusercontent.com/96817224/153276896-871458f8-8dbd-44a8-8277-946a8c21caac.mp4
+
+### BusTicketApp Onboarding Screen
+
+https://user-images.githubusercontent.com/96817224/152958141-995cdef5-d340-4ce7-8e7c-12382b26f0ba.mp4
+
+
 
 ##
 
