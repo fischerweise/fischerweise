@@ -46,6 +46,12 @@
 
 ![Autocad-Logo](https://user-images.githubusercontent.com/96817224/151434341-286e23b0-dbcc-427a-8102-67d86d549295.png)
 
+##
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fischerweise&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fischerweise&redirect=true)
+
+##
+
 ## Completed Projects so far
 
 ### HitTheBottle
@@ -60,12 +66,32 @@ https://user-images.githubusercontent.com/96817224/153277981-577ea9f9-6f94-4f40-
 
 https://user-images.githubusercontent.com/96817224/152958141-995cdef5-d340-4ce7-8e7c-12382b26f0ba.mp4
 
+### First Graded Assignment -BusTicket App named GoodToGo!-
 
+https://user-images.githubusercontent.com/96817224/155590053-56fdab5c-facc-4238-9e90-c69652806e8f.mp4
 
-##
+## Second Graded Assignment -GameStore App named AppStore!-
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fischerweise&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fischerweise&redirect=true)
+https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-88f5-4ed6f176dd5a.mp4
 
-##
+## Practices
+
+### ***Compositional Layout*** - Netflix Clone 
+
+![CompositionalLayout-min](https://user-images.githubusercontent.com/96817224/158624643-fe7500bb-b03a-48c7-9098-24e9b67695c3.gif)
+
+***To replicate and reinforce the Compositional Layout process, one of the newest introduced members of the Swift programming language, I created a product based on the Netflix Clone. In this way, I both discovered a new conversation and loved the Compositional Layout.***.
+
+### Implementing ***Firebase*** based on Instagram Clone
+
+![InstagramClone](https://user-images.githubusercontent.com/96817224/158625489-0bf6f335-2a9b-4242-a236-b194960f6eaa.gif)
+
+***I programmed an Instagram-like app to see what features it has, Firebase, a free service from Google, how it's implemented in Xcode. I found Firebase to be really helpful.***
+
+### Using ***Api*** - CryptoCurrencyTracker
+
+![CryptoCurrencyTracker](https://user-images.githubusercontent.com/96817224/158625880-c8bf6c57-de22-49c9-8570-8b139c5046d6.gif)
+
+***Cryptocurrencies, which have taken the world by storm recently, show themselves in the field of software. Thanks to the homework given to me in this field, I learned how to extract and use data from external sources.***
 
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
