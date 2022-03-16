@@ -88,10 +88,5 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 ***I programmed an Instagram-like app to see what features it has, Firebase, a free service from Google, how it's implemented in Xcode. I found Firebase to be really helpful.***
 
-### Using ***Api*** - CryptoCurrencyTracker
-
-![CryptoCurrencyTracker](https://user-images.githubusercontent.com/96817224/158625880-c8bf6c57-de22-49c9-8570-8b139c5046d6.gif)
-
-***Cryptocurrencies, which have taken the world by storm recently, show themselves in the field of software. Thanks to the homework given to me in this field, I learned how to extract and use data from external sources.***
 
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
