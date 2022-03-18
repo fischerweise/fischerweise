@@ -90,3 +90,9 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+### Builded CryptoAppTracker Using ***Api***
+
+***In this practice, my main goal is to learn how to use Api and how to implement it on a project.***
+
+![Coins](https://user-images.githubusercontent.com/96817224/159019680-b9d04cce-1a45-4e4f-80bb-aca50d5d766c.gif)
