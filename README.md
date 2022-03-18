@@ -88,11 +88,10 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 ***I programmed an Instagram-like app to see what features it has, Firebase, a free service from Google, how it's implemented in Xcode. I found Firebase to be really helpful.***
 
-
-<img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 ### Builded CryptoAppTracker Using ***Api***
 
 ***In this practice, my main goal is to learn how to use Api and how to implement it on a project.***
 
 ![Coins](https://user-images.githubusercontent.com/96817224/159019680-b9d04cce-1a45-4e4f-80bb-aca50d5d766c.gif)
+
+<img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
