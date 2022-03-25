@@ -78,15 +78,15 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 ### ***Compositional Layout*** - Netflix Clone 
 
-![CompositionalLayout-min](https://user-images.githubusercontent.com/96817224/158624643-fe7500bb-b03a-48c7-9098-24e9b67695c3.gif)
-
 ***To replicate and reinforce the Compositional Layout process, one of the newest introduced members of the Swift programming language, I created a product based on the Netflix Clone. In this way, I both discovered a new conversation and loved the Compositional Layout.***.
+
+![CompositionalLayout-min](https://user-images.githubusercontent.com/96817224/158624643-fe7500bb-b03a-48c7-9098-24e9b67695c3.gif)
 
 ### Implementing ***Firebase*** based on Instagram Clone
 
-![InstagramClone](https://user-images.githubusercontent.com/96817224/158625489-0bf6f335-2a9b-4242-a236-b194960f6eaa.gif)
-
 ***I programmed an Instagram-like app to see what features it has, Firebase, a free service from Google, how it's implemented in Xcode. I found Firebase to be really helpful.***
+
+![InstagramClone](https://user-images.githubusercontent.com/96817224/158625489-0bf6f335-2a9b-4242-a236-b194960f6eaa.gif)
 
 ### Builded CryptoAppTracker Using ***Api***
 
