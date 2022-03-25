@@ -94,4 +94,22 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 ![Coins](https://user-images.githubusercontent.com/96817224/159019680-b9d04cce-1a45-4e4f-80bb-aca50d5d766c.gif)
 
+### WeatherApp Using ***Api***
+
+***It is a weather application that gets the real location of the users using the Api again.***
+
+![WeatherApp](https://user-images.githubusercontent.com/96817224/160132657-a69c18b7-ac33-4947-bf1d-89eea7ea8543.gif)
+
+### ***Wordle***
+
+***Recently, I tried to design the 'Wordle' application, which was bought by the 'New York Times' and made by 'Josh Wardle', which took the world by storm. Focusing on users guessing given 5-letter words***
+
+![Wordle](https://user-images.githubusercontent.com/96817224/160133403-2933b0e0-fde3-42b0-b4e2-d363111bdcd5.gif)
+
+### ***Music Player Application***
+
+***I was wondering how a music is integrated into the application. I came up with such an application both by researching and writing myself.Don't forget to turn up the volume! :)***
+
+https://user-images.githubusercontent.com/96817224/160133653-79af61d7-973b-435a-be8a-26d30c9c3a44.mp4
+
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
