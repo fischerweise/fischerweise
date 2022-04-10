@@ -114,6 +114,4 @@ https://user-images.githubusercontent.com/96817224/158030311-39ffa84f-8093-47e1-
 
 ![MapKit](https://user-images.githubusercontent.com/96817224/162628325-1bd08d33-a8cf-4b09-9166-748aaf141d7f.gif)
 
-https://user-images.githubusercontent.com/96817224/160133653-79af61d7-973b-435a-be8a-26d30c9c3a44.mp4
-
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
